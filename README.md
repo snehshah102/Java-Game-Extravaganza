@@ -1,1 +1,1 @@
-# Fun and Nostalgic games made with Java and Generative AI! 
+# Fun and Nostalgic games made with Java
